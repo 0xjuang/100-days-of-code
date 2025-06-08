@@ -8,13 +8,13 @@ This repository tracks my progress through the 100 Days of Code challenge, focus
 
 ## Progress Tracker
 
-| Day | Title | Link |
-|-----|-------|------|
-| 1   | _Coming soon_ | - |
-| 2   | _Coming soon_ | - |
-| 3   | _Coming soon_ | - |
-| ... | ... | ... |
-
+| Day | Title                  | Link                                 |
+|-----|------------------------|--------------------------------------|
+| 1   | Band Name Generator    | [Day01](Day01/README.md)             |
+| 2   | Tip Calculator         | [Day02](Day02/README.md)             |
+| 3   | Treasure Island        | [Day03](Day03/README.md)             |
+| 4   | Rock Paper Scissors    | [Day04](Day04/README.md)             |
+| ... | _Coming soon_          | -                                    |
 ---
 
 ## Tools & Environment
